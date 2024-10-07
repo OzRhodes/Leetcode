@@ -1,2 +1,3 @@
 # Leetcode
-Leer code problems
+Leet code problems
+
